@@ -1,4 +1,4 @@
-package com.atzrh.service;
+package com.atzrh.dao;
 
 import com.atzrh.pojo.User;
 import com.ssm.mapper.Mapper;

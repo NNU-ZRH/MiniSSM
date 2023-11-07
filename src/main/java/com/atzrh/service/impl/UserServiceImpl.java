@@ -1,9 +1,6 @@
 package com.atzrh.service.impl;
 
-import com.atzrh.pojo.User;
-import com.atzrh.service.UserMapper;
 import com.atzrh.service.UserService;
-import com.ssm.annotation.AutoWired;
 import com.ssm.annotation.Service;
 
 /**

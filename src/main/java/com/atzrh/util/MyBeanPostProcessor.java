@@ -1,4 +1,4 @@
-package com.atzrh.service;
+package com.atzrh.util;
 
 import com.ssm.annotation.Service;
 import com.ssm.bean.BeanPostProcessor;
